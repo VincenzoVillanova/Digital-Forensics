@@ -1,3 +1,6 @@
+![Logo](https://images.squarespace-cdn.com/content/v1/60056c48dfad4a3649200fc0/1613294634908-3HTA3TR74HYYSNEIZSIJ/UniCT-Logo.jpg?format=1000w)
+
+
 # Digital Forensics 2023-24 Project Repository
 
 ## Descrizione
